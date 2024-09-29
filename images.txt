@@ -1,3 +1,4 @@
+openjdk:17
 portainer/portainer
 nginx
 #支持私库
